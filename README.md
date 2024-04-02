@@ -1,12 +1,27 @@
+## 🔭 Hello, I'm Clebson Wendler 👋
+  
+<br/>  
 
-
-<div align="center">
-<img src="https://site-pessoal-clebson.s3.sa-east-1.amazonaws.com/img/devops.jpg" align="center" style="width: 100%" />
+## Connect with me  
+<div align="left">
+<a href="https://github.com/clebsonwendler" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/clebsonmkt" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/clebsonwendler" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/clebsonwendler" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/clebsonwendler" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
 </div>  
-  
 
-#### 🔭 Meu nome é Clebson Wendler, tenho 28 anos, sou membro ativo da comunidade DevOps!  
-  
+<br/>
 
 Sou um profissional apaixonado pelo campo da tecnologia, com uma sólida trajetória que abrange análise e desenvolvimento de sistemas, suporte técnico e gerenciamento de infraestrutura. Minha ampla experiência me levou a participar ativamente tanto em equipes de desenvolvimento como em equipes de operações, onde desempenhei um papel essencial na implantação e evolução dos processos de automação e qualidade de código.
 
@@ -72,28 +87,6 @@ Minha paixão inabalável pela inovação tecnológica me impulsiona a permanece
 <a href="https://about.gitlab.com/" target="_blank" style="padding:5px"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="left">
-<a href="https://github.com/clebsonwendler" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/clebsonmkt" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/clebsonwendler" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/clebsonwendler" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/clebsonwendler" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
@@ -105,7 +98,7 @@ Minha paixão inabalável pela inovação tecnológica me impulsiona a permanece
 
 <br/>  
 
-
+📚 Looking for my Resume? Message me on my LinkedIn profile!
 
 <br/>  
 
