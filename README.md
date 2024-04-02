@@ -2,7 +2,6 @@
   
 <br/>  
 
-## Connect with me  
 <div align="left">
 <a href="https://github.com/clebsonwendler" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -21,7 +20,7 @@
 </a>  
 </div>  
 
-<br/>
+<br/><br/>
 
 Sou um profissional apaixonado pelo campo da tecnologia, com uma sólida trajetória que abrange análise e desenvolvimento de sistemas, suporte técnico e gerenciamento de infraestrutura. Minha ampla experiência me levou a participar ativamente tanto em equipes de desenvolvimento como em equipes de operações, onde desempenhei um papel essencial na implantação e evolução dos processos de automação e qualidade de código.
 
