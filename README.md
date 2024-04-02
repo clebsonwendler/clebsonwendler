@@ -18,7 +18,7 @@
 </a>  
 </div>  
 
-<br/>#
+<hr>
 
 Sou um profissional apaixonado pelo campo da tecnologia, com uma sólida trajetória que abrange análise e desenvolvimento de sistemas, suporte técnico e gerenciamento de infraestrutura. Minha ampla experiência me levou a participar ativamente tanto em equipes de desenvolvimento como em equipes de operações, onde desempenhei um papel essencial na implantação e evolução dos processos de automação e qualidade de código.
 
